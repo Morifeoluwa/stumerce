@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'metropolis';
+    src: url('metropolis-regular.woff2') format('woff2'),
+         url('metropolis-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'metropolis-bold';
+    src: url('metropolis-bold.woff2') format('woff2'),
+         url('metropolis-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
